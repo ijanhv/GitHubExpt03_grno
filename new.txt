@@ -1,3 +1,4 @@
 Hello! Good Morning
+Have a nice day
 
 This is new file
